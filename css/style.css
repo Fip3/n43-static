@@ -1,4 +1,9 @@
 body {
   color: white;
   background-color: black;
+  font-family: 'Play', sans-serif;
+}
+
+.enter {
+  text-align: center;
 }
